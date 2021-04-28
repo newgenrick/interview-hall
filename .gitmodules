@@ -1,0 +1,3 @@
+[submodule "interview-hall-webapp"]
+	path = interview-hall-webapp
+	url = https://github.com/newgenrick/interview-hall-webapp.git
